@@ -20,5 +20,5 @@ ALTER TABLE `stock`
 ALTER TABLE `stock`
   MODIFY `STOCK_ID` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;COMMIT;
   
-2. Build using Maven
+2. On project folder run : mvn package
 3. On 'target' folder run : java -jar exampleSpringHibernate-1.0.jar

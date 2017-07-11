@@ -22,3 +22,6 @@ ALTER TABLE `stock`
   
 2. On project folder run : mvn package
 3. On 'target' folder run : java -jar exampleSpringHibernate-1.0.jar
+
+
+The code is ammended from : http://www.mkyong.com/spring/maven-spring-hibernate-mysql-example/
